@@ -1,0 +1,13 @@
+{
+  "name": "es6-tooling-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "webpack --mode development -w"
+  },
+  "dependencies": {
+    "webpack": "^4.41.3",
+    "webpack-cli": "^3.3.10"
+  }
+}
